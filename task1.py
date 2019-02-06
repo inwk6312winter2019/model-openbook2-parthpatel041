@@ -25,7 +25,7 @@ def street_owner():
             final_list.append(a[11])
     print(final_list)
 
-tuple()
+tup()
 maintenance()
 street_owner()
 
