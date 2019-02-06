@@ -11,4 +11,7 @@ def accessible(f):
 
     return infolist
 
+def non_standard():
+
+accessible()
        
