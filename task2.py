@@ -6,4 +6,9 @@ def accessible(f):
     infolist=[]
     f.readline()
     for line in f:
+       line=line.strip()
+       infolist.append(line.split(','))
+
+    return infolist
+
        
